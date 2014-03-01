@@ -52,5 +52,7 @@ table {
 
 
 /* END RESET */
+ol {
+	list-style-type: decimal; }
 
 
