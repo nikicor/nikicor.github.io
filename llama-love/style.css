@@ -55,4 +55,6 @@ table {
 
 img {
 	float:left;
+	clear:left;
+	padding:70px;
 }
