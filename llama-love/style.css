@@ -58,3 +58,7 @@ img {
 	clear:left;
 	padding:70px;
 }
+
+p {
+	float: right;
+}
