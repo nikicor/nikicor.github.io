@@ -52,6 +52,6 @@ table {
 
 
 /* END RESET */
-.directions ol>li {
+.directions ol {
 	list-style-type: lower-alpha; 
 }
