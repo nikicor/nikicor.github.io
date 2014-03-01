@@ -57,10 +57,10 @@ body {
 	color:black;
 }
 
-section .ingedients ul {
+ul {
 	list-style-type:square;
 }
 
-section .directions li {
+li {
 	list-style-type:lower-roman; 
 }
