@@ -55,17 +55,12 @@ table {
 
 h1 {
 	font-family: Helvetica;
-	font-weight: bold
-	font-size: large;
+	font-weight: 200%
 }
+
 h2 {
 	font-family: Helvetica;
 	font-size: small;
-}
-img {
-	float:left;
-	clear:left;
-	padding:70px;
 }
 
 p {
@@ -73,4 +68,11 @@ p {
 	font-family: Helvetica;
 	font-size: small;
 
+}
+
+img {
+	float:left;
+	clear:left;
+	padding:70px;
+	size:small;
 }
