@@ -54,13 +54,13 @@ table {
 /* END RESET */
 
 body {
-	color:blue;
+	color:black;
 }
 
-ul {
+section .ingedients ul {
 	list-style-type:square;
 }
 
-li {
-	list-style-type:decimal; 
+section .directions li {
+	list-style-type:lower-roman; 
 }
