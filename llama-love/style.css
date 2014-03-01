@@ -55,12 +55,13 @@ table {
 
 h1 {
 	font-family: Helvetica;
-	font-weight: 200%
+	font-weight: 700%
 }
 
 h2 {
 	font-family: Helvetica;
 	font-size: small;
+	color:gray;
 }
 
 p {
