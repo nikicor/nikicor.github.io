@@ -53,6 +53,11 @@ table {
 
 /* END RESET */
 
+h1 {
+	font-family: Helvetica;
+	font-size: large
+
+}
 img {
 	float:left;
 	clear:left;
@@ -61,4 +66,7 @@ img {
 
 p {
 	float: right;
+	font-family: Helvetica;
+	font-size: medium;
+
 }
