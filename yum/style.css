@@ -53,4 +53,4 @@ table {
 
 /* END RESET */
 
-#directions > ul  { background-color:red; }
+ol {list-style-type: lower-roman;}
