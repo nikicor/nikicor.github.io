@@ -52,7 +52,6 @@ table {
 
 
 /* END RESET */
-.directions ol {
-	list-style-type: decimal; }
-
-
+.directions ol>li {
+	list-style-type: lower-alpha; 
+}
