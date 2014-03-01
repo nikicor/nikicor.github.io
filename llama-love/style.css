@@ -68,6 +68,11 @@ h2 {
 	
 }
 
+#main-content {
+	float: left;
+	width: 660px;
+}
+
 p {
 	float: right;
 	font-family: Helvetica;
