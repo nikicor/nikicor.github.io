@@ -78,7 +78,7 @@ p {
 }
 
 img {
-	float:center;
+	float:left;
 	clear:left;
 	margin:10px;
 	padding: 10px 20px;
