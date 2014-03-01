@@ -72,8 +72,8 @@ p {
 	float: right;
 	font-family: Helvetica;
 	font-size: small;
-	margin:30px 1px 20px 0px;
-	padding:5px 3px 10px 0px;
+	margin:30px 1px 20px 10px;
+	padding:15px 3px 10px 10px;
 
 }
 
