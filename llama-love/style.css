@@ -78,3 +78,7 @@ img {
 	padding:70px;
 	size:small;
 }
+
+#main-content {
+	vertical-align: text-top;
+}
