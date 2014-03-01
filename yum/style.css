@@ -53,4 +53,4 @@ table {
 
 /* END RESET */
 
-.directions > ul  { background-color:red; }
+#directions > ul  { background-color:red; }
