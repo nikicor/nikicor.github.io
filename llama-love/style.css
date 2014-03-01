@@ -51,12 +51,7 @@ table {
 
 
 /* END RESET */
-#main-content {
-	float: left;
-	width: 660px;
-	margin: 0 auto;
-	padding:10px;
-}
+
 
 img {
 	float:left;
