@@ -57,14 +57,14 @@ h1 {
 	font-family: Helvetica;
 	font-weight: bold;
 	font-size: 36px;
-	margin:15px 1px 20px 20px;
+	margin:15px 1px 20px 0px;
 }
 
 h2 {
 	font-family: Helvetica;
 	font-size: small;
 	color:gray;
-	margin:15px 1px 20px 20px;
+	margin:15px 1px 20px 0px;
 	
 }
 
@@ -72,7 +72,7 @@ p {
 	float: right;
 	font-family: Helvetica;
 	font-size: small;
-	margin:15px 1px 20px 20px;
+	margin:15px 1px 20px 0px;
 	padding:5px 3px 10px 20px;
 
 }
