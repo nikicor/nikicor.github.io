@@ -54,3 +54,7 @@ table {
 /* END RESET */
 
 
+img {
+	float:right;
+	margin:10px;
+}
