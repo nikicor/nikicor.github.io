@@ -54,6 +54,6 @@ table {
 /* END RESET */
 
 ol {
-	list-style-type: lower-roman;
+	list-style-type: decimal;
 	margin:15px 1px 20px 20px;
 }
