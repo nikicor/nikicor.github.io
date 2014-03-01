@@ -1,5 +1,4 @@
 
-
 /* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -52,6 +51,21 @@ table {
 
 
 /* END RESET */
+#main-content {
+	float: left;
+	width: 660px;
+	margin: 0 auto;
+	padding:10px;
+}
+
+img {
+	float:left;
+	margin:10px;
+	padding: 10px 20px;
+	height:150px;
+	width:150px;
+
+}
 
 h1 {
 	font-family: Helvetica;
@@ -65,15 +79,8 @@ h2 {
 	font-size: small;
 	color:gray;
 	margin:15px 1px 20px 0px;
-	
 }
 
-#main-content {
-	float: left;
-	width: 660px;
-	margin: 0 auto;
-	padding:10px;
-}
 
 p {
 	float: right;
@@ -84,11 +91,4 @@ p {
 
 }
 
-img {
-	float:left;
-	margin:10px;
-	padding: 10px 20px;
-	height:150px;
-	width:150px;
 
-}
