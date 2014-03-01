@@ -53,4 +53,7 @@ table {
 
 /* END RESET */
 
-ol {list-style-type: lower-roman;}
+ol {
+	list-style-type: lower-roman;
+	margin:5px 3px 10px 20px;
+}
