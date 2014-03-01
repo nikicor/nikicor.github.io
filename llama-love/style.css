@@ -55,7 +55,8 @@ table {
 
 h1 {
 	font-family: Helvetica;
-	font-weight: 700%
+	font-weight: bold;
+	font-size: 700%;
 }
 
 h2 {
