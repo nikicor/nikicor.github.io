@@ -55,9 +55,12 @@ table {
 
 h1 {
 	font-family: Helvetica;
-	font-size: large
-	font-weight: bold;
-
+	font-weight: bold
+	font-size: large;
+}
+h2 {
+	font-family: Helvetica;
+	font-size: small;
 }
 img {
 	float:left;
