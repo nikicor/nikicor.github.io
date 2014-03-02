@@ -75,6 +75,7 @@ html[xmlns] .clearfix { display: block; }
 
 #top-nav {
 	border-top-style:solid;
+	border-bottom-style: solid;
 	border-color: black;
 }
 li{
