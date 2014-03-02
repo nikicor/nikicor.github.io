@@ -73,7 +73,7 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
-#top-nav li {
+li {
 	border-top-style:solid;
 	border-bottom-style: solid;
 	border-color: black;
