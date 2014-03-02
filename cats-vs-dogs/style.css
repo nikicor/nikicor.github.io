@@ -74,12 +74,7 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
 li {
-	border-top-style:solid;
-	border-right-style:none;
-	border-bottom-style:solid;
-	border-left-style:none;
-	border-color: black;
-    list-style:disc;
+	list-style:disc;
     float:left;
     margin:10px;
     background-color:white;
@@ -87,6 +82,14 @@ li {
     padding:10px;
     text-transform:uppercase;
     font-family:helvetica}
+
+#top-nav {
+    border-top-style:solid;
+	border-right-style:none;
+	border-bottom-style:solid;
+	border-left-style:none;
+	border-color: black;
+    }
 
 
 
