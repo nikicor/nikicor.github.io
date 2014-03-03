@@ -83,6 +83,7 @@ li {
     text-transform:uppercase;
     font-family:helvetica;
     margin:20px;
+    text-decoration: none;
 }
 
 img {
