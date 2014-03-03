@@ -61,7 +61,7 @@ img.floatleft{
 	width: 150px;
 }
 
-img.floatright{
+img.floatleft{
 	float:right;
 	margin:10px;
 	padding:5px;
