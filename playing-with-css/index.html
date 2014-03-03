@@ -9,6 +9,44 @@
 </head>
 <body>
 <style>
+	/* Style it here */
+  #main-menu{
+    position:absolute;
+    top:20px;
+    left:20px;
+    background-color:teal;
+    border-radius:5px;
+    box-shadow:4px 4px 4px#ddd;
+    padding:0 10px;
+    margin: 0 20px; 
+  }
+  #main-menu li{
+    float:left;
+    border-right:2px solid #fff; 
+  }
+  #main-menu li.last{
+    border:0px;
+  }
+  #main-menu li a{
+    display:block;
+    padding:15px;
+    color:white;
+    text-decoration:none;
+    text-transformation:uppercase;
+  }
+</style>
+<nav id='main-menu'>
+<ul>
+	<li>
+		<a href="#">Home</a></li>
+	<li>
+		<a href="#">About</a></li>
+	<li>
+		<a href="#">Blog</a></li>
+	<li class='last'>
+		<a href="#">Contact</a></li>
+</ul>
+</nav>
 
 </style>
 THIS IS JUST A TEST
