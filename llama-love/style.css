@@ -59,6 +59,7 @@ img.floatleft{
 	padding:5px;
 	height: 150px;
 	width: 150px;
+	vertical-align: top;
 }
 
 img.floatleft{
@@ -67,6 +68,7 @@ img.floatleft{
 	padding:5px;
 	height:150px;
 	width: 150px;
+	vertical-align: top;
 }
 
 h1 {
