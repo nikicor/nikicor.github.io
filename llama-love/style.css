@@ -60,8 +60,13 @@ h1{
 	font-weight: bold;
 }
 
-h2{font-size: small;}
+h2{
+	font-size: small;
+}
 
+p{
+	padding-bottom: 10px;
+}
 article{
 	float:left;
 	width:450px;
