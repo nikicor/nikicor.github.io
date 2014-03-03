@@ -55,12 +55,18 @@ table {
 
 img.floatleft{
 	float:left;
-	margin:4px;
+	margin:10px;
+	padding;5px;
+	height: 150px;
+	width: 150px;
 }
 
 img.floatright{
 	float:right;
-	margin:4px;
+	margin:10px;
+	padding:5px;
+	height:150px;
+	width: 150px;
 }
 
 h1 {
