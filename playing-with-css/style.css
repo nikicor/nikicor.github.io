@@ -54,26 +54,5 @@ table {
 
 body{
 	font-family: helvetica, arial, sans-serif;
+	color:green;
 }
-h1{
-	font-size:  160%;
-	font-weight: bold;
-}
-
-h2{font-size: small;}
-
-article{
-	float:left;
-	width:450px;
-	margin:100px 15px;
-}
-
-img{
-	float;left;
-	width:150px;
-}
-#main-content{
-	width:960px;
-	margin:0auto;
-}
-
