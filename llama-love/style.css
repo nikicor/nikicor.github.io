@@ -71,6 +71,7 @@ article{
 img{
 	float;left;
 	width:150px;
+	padding:0px 20px 20px 0px;
 }
 #main-content{
 	width:960px;
