@@ -51,21 +51,16 @@ table {
 
 
 /* END RESET */
-#main-content {
-	float: left;
-	width: 660px;
-	margin: 0 auto;
-	padding:5px;
+
+
+img.floatleft{
+	float:left;
+	margin:4px;
 }
 
-img {
-	float:left;
-	margin:10px;
-	padding: 5px;
-	height:150px;
-	width:150px;
-	vertical-align:text-top;
-
+img.floatright{
+	float:right;
+	margin:4px;
 }
 
 h1 {
