@@ -85,11 +85,23 @@ h2 {
 	font-size: 20px;
 }
 
+article {
+	float:left;
+	clear:left;
+	
+}
+p{
+	padding-top:15px;
+	margin:0px;
+	font-family: garamond serif;
+	font-size: 12px;
+}
+
 
 img{
 	float:left;
-	height:75%;
-	width:75%;
+	height:55%;
+	width:55%;
 	padding:0px 0px 20px 0px;
 }
 
