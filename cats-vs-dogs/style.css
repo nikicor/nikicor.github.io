@@ -112,11 +112,14 @@ a:link {
 }
 
 #dog-content {
-	clear:left;
-	float:left;
-	width:50%;
-	padding:15px 0px 15px 25px;
-}
+	clear: left;
+  float: left;
+  width: 45%;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  
+  }
 
 #cat-content {
 	clear:right;
