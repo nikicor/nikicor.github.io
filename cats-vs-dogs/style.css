@@ -73,7 +73,7 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
-li {
+#top-nav li {
 	list-style:disc;
     float:left;
     margin:10px 1px 1px 10px;
@@ -121,6 +121,18 @@ img{
 #main-content{
 	width:960px;
 	margin:0auto;
+}
+
+#site-footer {
+	list-style:disc;
+    float:left;
+    margin:10px 10px 10px 10px;
+    background-color:white;
+    color:black;
+    padding:10px 10px 10px 10px;
+    font-family:helvetica;
+    margin:20px;
+    text-decoration: none;
 }
 
 
