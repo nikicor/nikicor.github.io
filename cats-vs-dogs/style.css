@@ -78,7 +78,10 @@ body{
 	margin:10px;
 }
 h1 {
+	text-align:center;
 	font-size: 40px;
+	font-family: helvetica sans-serif;
+	padding:40px 0px 30px;
 }
 
 h2 {
@@ -97,20 +100,21 @@ p{
 #dog-content {
 	clear:left;
 	float:left;
-	width:20%;
+	width:50%;
 	padding:15px 0px 15px 25px;
 }
 
 #cat-content {
 	float:right;
+	width:50%;
 	padding: 15px 20px 10px 0px;
 }
 
 img{
 	float:left;
-	height:150px;
-	width:150px;
-	padding:0px 20px 20px 0px;
+	height:75%;
+	width:75%;
+	padding:0px 0px 20px 0px;
 }
 
 #top-nav li {
@@ -130,14 +134,21 @@ img{
 	margin:0auto;
 }
 
-#site-footer {
+#left-footer {
     float:left;
-    margin:10px 10px 10px 10px;
+    clear:left;
+    text-align: left;
+    padding-left:30px;
     background-color:white;
     color:black;
-    padding:10px 10px 10px 10px;
     font-family:helvetica;
-    margin:20px;
+}
+
+#right-footer {
+	float:right;
+	clear:right;
+	text-align: right;
+	padding-right: 30px
 }
 
 
