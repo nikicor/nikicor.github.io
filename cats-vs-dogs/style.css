@@ -114,19 +114,22 @@ a:link {
 #dog-content {
 	clear: left;
   float: left;
-  width: 45%;
+  width: 30%;
   padding-top: 15px;
-  padding-left: 20px;
+  padding-right: 0px;
   padding-bottom: 10px;
+  padding-left: 20px
   
   }
 
 #cat-content {
-	clear:right;
-	float:right;
-	width:50%;
-	padding: 15px 20px 10px 0px;
-}
+	float: right;
+  width: 30%;
+  padding-top: 15px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 0px
+  }
 
 
 #top-nav li {
