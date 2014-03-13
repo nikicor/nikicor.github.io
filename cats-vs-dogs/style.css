@@ -112,14 +112,14 @@ img{
 
 
 
-#dog {
+.dog {
 	width: 500px;
 	height:500px;
 	float:left;
 	margin-right: 15px;
 }
 
-#cat {
+.cat {
 	width: 500px;
 	height: 500px;
 	float: right;
