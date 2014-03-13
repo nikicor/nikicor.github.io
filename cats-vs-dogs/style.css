@@ -91,7 +91,7 @@ article{
 	margin:100px 15px;
 }
 p {
-	font-family: garamond serif;
+	font-family: serif;
 	font-size: 15px;
 	padding-top:10px;
 	margin:0px;
@@ -103,6 +103,19 @@ img{
 	height:55%;
 	width:55%;
 	padding:0px 20px 20px 0px;
+}
+
+footer {
+	width: 100%;
+	padding-top: 5px;
+	border-top-width: 5px;
+	border-top-style: solid;
+
+}
+
+#main-content{
+	width:960px;
+	margin:0auto;
 }
 
 #top-nav {
@@ -134,18 +147,6 @@ img{
 }
 
 
-#main-content {
-	width:500px;
-}
-
-.content{
-	width:300px;
-	float:left;
-	clear:left;
-	margin-top: 40px;
-	margin-right:20px;
-}
-
 #left-footer {
     float:left;
     clear:left;
@@ -161,14 +162,6 @@ img{
 	clear:right;
 	text-align: right;
 	padding-right: 30px
-}
-
-footer {
-	width: 100%;
-	padding-top: 5px;
-	border-top-width: 5px;
-	border-top-style: solid;
-
 }
 
 
