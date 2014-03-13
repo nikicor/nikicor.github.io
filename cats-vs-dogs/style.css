@@ -75,7 +75,8 @@ html[xmlns] .clearfix { display: block; }
 
 body{
 	margin:0 auto;
-	width:999px;
+	width:1000px;
+	height:1000px;
 }
 
 h1 {
