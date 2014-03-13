@@ -195,7 +195,7 @@ body {
 
 #footer-contact{
 	float:left;
-	width:200px;
+	width:150px;
 	margin-top: 10px;
 	margin-right: 100px;
 	margin-left:155px;
@@ -219,3 +219,29 @@ body {
 
 }
 
+#footer-follow{
+	float:left;
+	margin-top: 10px;
+	margin-right: 100px;
+	margin-left: 15px;
+}
+
+#footer-follow h1{
+	font-family: helvetica;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color:#4d3710;
+	padding-bottom: 5px; 
+
+
+}
+#footer-follow li{
+	float:left;
+	padding-top: 10px;
+	padding-right: 5px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	display:block;
+
+}
