@@ -76,8 +76,6 @@ html[xmlns] .clearfix { display: block; }
 body{
 	margin:0 auto;
 	width:960px;
-	padding:50px;
-	position: relative;
 }
 
 h1 {
@@ -192,6 +190,9 @@ img{
 footer {
 	width: 500px;
 	padding-top: 20px;
+	border-top:solid;
+	border-bottom:solid;
+	border-width:2px;
 
 
 }
