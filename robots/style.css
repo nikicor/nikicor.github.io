@@ -193,10 +193,26 @@ body {
 	background-color: #4d3710;
 }
 
-#site-footer p{
+#footer-contact{
+	float:left;
+	width:100px;
+	margin-top: 10px;
+	margin-right: 100px;
+}
+
+#footer-contact p{
 	color:#ffffff;
 	font-size: 12px;
 	padding-bottom: 5px;
 	line-height: 1em;
+
+}
+
+#footer-contact h1{
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color:#4d3710;
+	padding-bottom: 5px; 
 
 }
