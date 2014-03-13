@@ -129,7 +129,7 @@ body {
 #page h1{
 	font-family: helvetica;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 25px;
 	color:#4d3710;
 	text-transform: uppercase;
 	padding-top: 20px;
@@ -139,9 +139,15 @@ body {
 #page h2{
 	font-family: helvetica;
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 18px;
 	color:#4d3710;
 	text-transform: uppercase;
 	padding-top: 20px;
 	padding-bottom: 5px;
+}
+
+#page p{
+	font-size: 12px;
+	padding-bottom: 5px;
+	line-height: 1.5em; 
 }
