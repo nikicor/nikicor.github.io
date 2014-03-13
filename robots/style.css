@@ -100,13 +100,13 @@ body {
 
 #main-menu li{
 	float:left;
-	padding:8px;
-	margin-top:5px;
-	margin-bottom: 5px;
+	padding:12px;
+	margin-top:7px;
+	margin-bottom: 7px;
 	display: block;
 	font-weight: bold;
 	text-transform: uppercase;
-	font-size: 20px;
+	font-size: 10px;
 }
 
 #main-menu a{
