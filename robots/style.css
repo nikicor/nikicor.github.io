@@ -56,7 +56,7 @@ body {
 
 #site-header{
 	position:relative;
-	height:200px;
+	height:120px;
 	background-color:#d5deb4;
 	width:100%;
 }
@@ -95,7 +95,7 @@ body {
 	position:relative;
 	padding-left:155px;
 	background-color: #4d3710;
-	height:90px;
+	height:50px;
 }
 
 #main-menu li{
@@ -112,5 +112,6 @@ body {
 #main-menu a{
 	text-decoration: none;
 	color:#ffffff;
+	font-family: helvetica;
 }
 
