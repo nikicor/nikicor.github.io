@@ -111,20 +111,6 @@ img{
 
 
 
-
-.dog {
-	width: 500px;
-	height:500px;
-	float:left;
-	margin-right: 15px;
-}
-
-.cat {
-	width: 500px;
-	height: 500px;
-	float: right;
-}
-
 #top-nav {
 	position:absolute;
 	border-top:solid;
