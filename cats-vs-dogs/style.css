@@ -110,7 +110,10 @@ img{
 	padding:0px 20px 20px 0px;
 }
 
-
+#main-content{
+	width:1000px;
+	margin:0auto;
+}
 
 #top-nav {
 	position:absolute;
