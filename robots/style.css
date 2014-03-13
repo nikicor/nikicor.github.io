@@ -195,10 +195,12 @@ body {
 
 #footer-contact{
 	float:left;
-	width:150px;
+	width:155px;
 	margin-top: 10px;
 	margin-right: 100px;
 	margin-left:155px;
+	padding-right: 450px;
+
 }
 
 #footer-contact h1{
@@ -206,7 +208,7 @@ body {
 	font-size: 18px;
 	font-weight: bold;
 	text-transform: uppercase;
-	color:#4d3710;
+	color:#ffffff;
 	padding-bottom: 5px; 
 
 }
@@ -231,7 +233,7 @@ body {
 	font-size: 18px;
 	font-weight: bold;
 	text-transform: uppercase;
-	color:#4d3710;
+	color:#ffffff;
 	padding-bottom: 5px; 
 
 
