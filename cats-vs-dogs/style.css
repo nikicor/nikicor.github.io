@@ -123,42 +123,21 @@ footer {
 	clear:left;
 }
 
-#top-nav{
-	display: block;
-	width: 100%;
-	border-top-width: 2px;
-	border-top-style: solid; 
-	border-bottom-width: 2px;
-	border-bottom-style: solid;
-	text-align: center;
-
-}
-#top-nav ul{
-	display: block;
-	margin-right: 0px auto;
-	margin-left: 0px auto;
-	width: 999px;
+.nav li {
+	width: 100px;
+	margin-left:10px;
+	display: inline-block;
 }
 
-#top-nav li { 
-	display: inline;
-    list-style:none;
-	float:left;
-	clear:left;
-	padding: 2px;
-	padding-left: 20px;
-	padding-right: 20px;
-	text-align: center;
-	text-transform: uppercase;
-	font-family: serif;
-	font-size: x-large;
-	font-weight: bold;
-	font-color: black;		
+#top-nav {
+	border-top:solid;
+	border-bottom:solid;
+	border-width:2px;
+	width: 900px;
 }
-
 #top-nav li a{
     display:block;
-    padding:15px;
+    padding:5px;
     color:black;
     text-decoration:none;
 }
