@@ -190,7 +190,7 @@ body {
 	position: relative;
 	height:200px;
 	width:100%;
-	background-color: #4d3710;
+	background-color: #875b32
 }
 
 #footer-contact{
@@ -206,7 +206,7 @@ body {
 	font-size: 18px;
 	font-weight: bold;
 	text-transform: uppercase;
-	color:#875b32;
+	color:##4d3710;
 	padding-bottom: 5px; 
 
 }
