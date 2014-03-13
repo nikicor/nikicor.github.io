@@ -195,17 +195,10 @@ body {
 
 #footer-contact{
 	float:left;
-	width:100px;
+	width:200px;
 	margin-top: 10px;
 	margin-right: 100px;
-}
-
-#footer-contact p{
-	color:#ffffff;
-	font-size: 12px;
-	padding-bottom: 5px;
-	line-height: 1em;
-
+	margin-left:155px;
 }
 
 #footer-contact h1{
@@ -216,3 +209,11 @@ body {
 	padding-bottom: 5px; 
 
 }
+#footer-contact p{
+	color:#ffffff;
+	font-size: 12px;
+	padding-bottom: 5px;
+	line-height: 1em;
+
+}
+
