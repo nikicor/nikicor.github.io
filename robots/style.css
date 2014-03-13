@@ -64,7 +64,7 @@ body {
 #site-header h1{
 	position:absolute;
 	width:350px;
-	height:180px;
+	height:120px;
 	left:155px;
 	display:block;
 }
@@ -95,7 +95,7 @@ body {
 	position:relative;
 	padding-left:155px;
 	background-color: #4d3710;
-	height:50px;
+	height:90px;
 }
 
 #main-menu li{
@@ -104,10 +104,13 @@ body {
 	margin-top:5px;
 	margin-bottom: 5px;
 	display: block;
-	color:#ffffff;
 	font-weight: bold;
 	text-transform: uppercase;
+	font-size: 20px;
+}
+
+#main-menu a{
 	text-decoration: none;
-	font-size: 50px;
+	color:#ffffff;
 }
 
