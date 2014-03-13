@@ -75,7 +75,7 @@ html[xmlns] .clearfix { display: block; }
 
 body{
 	margin:0 auto;
-	width:960px;
+	width:999px;
 }
 
 h1 {
@@ -96,7 +96,7 @@ article{
 }
 p {
 	font-family: serif;
-	font-size: 15px;
+	font-size: 12px;
 	padding-top:10px;
 	margin:0px;
 }
@@ -130,6 +130,22 @@ img{
 	float: right;
 }
 
+#top-nav {
+	position:absolute;
+	border-top:solid;
+	border-bottom:solid;
+	border-width:2px;
+	width: 900px;
+	height:400px;
+	text-align: center;
+}
+#top-nav li a{
+    display:block;
+    padding:5px;
+    color:black;
+    text-decoration:none;
+    text-transform: uppercase;
+}
 .nav{
 	position:center;
 }
@@ -153,23 +169,6 @@ img{
 
 }
 
-#top-nav {
-	position:absolute;
-	border-top:solid;
-	border-bottom:solid;
-	border-width:2px;
-	width: 900px;
-	height:400px;
-	text-align: center;
-}
-#top-nav li a{
-    display:block;
-    padding:5px;
-    color:black;
-    text-decoration:none;
-    text-transform: uppercase;
-}
-
 
 #left-footer {
     float:left;
@@ -188,11 +187,10 @@ img{
 }
 
 footer {
-	width: 500px;
+	width: 900px;
 	padding-top: 20px;
 	border-top:solid;
 	border-bottom:solid;
 	border-width:2px;
-
 
 }
