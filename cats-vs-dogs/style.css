@@ -116,6 +116,7 @@ footer {
 #main-content{
 	width:960px;
 	margin:0auto;
+	float:left;
 }
 
 #top-nav {
@@ -154,14 +155,15 @@ footer {
     padding-left:30px;
     background-color:white;
     color:black;
-    font-family:helvetica;
+    font-size: 10px;
 }
 
 #right-footer {
 	float:right;
 	clear:right;
 	text-align: right;
-	padding-right: 30px
+	padding-right: 30px;
+	font-size:10px;
 }
 
 
