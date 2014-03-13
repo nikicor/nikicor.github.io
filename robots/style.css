@@ -202,15 +202,17 @@ body {
 }
 
 #footer-contact h1{
+	font-family: helvetica;
 	font-size: 18px;
 	font-weight: bold;
 	text-transform: uppercase;
-	color:#4d3710;
+	color:#875b32;
 	padding-bottom: 5px; 
 
 }
 #footer-contact p{
 	color:#ffffff;
+	font-family: helvetica;
 	font-size: 12px;
 	padding-bottom: 5px;
 	line-height: 1em;
