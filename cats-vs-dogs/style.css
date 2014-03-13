@@ -90,11 +90,7 @@ h2 {
 	font-size: 20px;
 }
 
-article{
-	float:left;
-	width:450px;
-	margin:100px 15px;
-}
+
 p {
 	font-family: serif;
 	font-size: 12px;
@@ -112,7 +108,8 @@ img{
 
 #main-content{
 	width:1000px;
-	margin:0auto;
+	float:left;
+	margin:100px 15px;
 }
 
 #top-nav {
