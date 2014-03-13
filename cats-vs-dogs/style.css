@@ -74,7 +74,8 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
 body{
-	margin:0px auto;
+	margin:0 auto;
+	width:960px;
 }
 
 h1 {
@@ -123,10 +124,12 @@ img{
 }
 
 #top-nav {
+	position:absolute;
 	border-top:solid;
 	border-bottom:solid;
 	border-width:2px;
 	width: 900px;
+	height:400px;
 	text-align: center;
 }
 #top-nav li a{
@@ -157,8 +160,10 @@ img{
 }
 
 footer {
-	border-top:solid;
+	border-top-style:solid;
 	border-width:2px;
-	width: 900px;
+	width: 500px;
+	padding-top: 20px;
+
 
 }
