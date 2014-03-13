@@ -64,7 +64,7 @@ body {
 #site-header h1{
 	position:absolute;
 	width:350px;
-	height:200px;
+	height:180px;
 	left:155px;
 	display:block;
 }
@@ -90,3 +90,24 @@ body {
 	font-size: small;
 	text-decoration: none;
 }
+
+#main-menu{
+	position:relative;
+	padding-left:155px;
+	background-color: #4d3710;
+	height:50px;
+}
+
+#main-menu li{
+	float:left;
+	padding:8px;
+	margin-top:5px;
+	margin-bottom: 5px;
+	display: block;
+	color:#ffffff;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 50px;
+}
+
