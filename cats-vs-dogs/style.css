@@ -90,7 +90,12 @@ article{
 	width:450px;
 	margin:100px 15px;
 }
-
+p {
+	font-family: garamond serif;
+	font-size: 15px;
+	padding-top:10px;
+	margin:0px;
+}
 
 
 img{
