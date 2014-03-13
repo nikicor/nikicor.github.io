@@ -125,7 +125,7 @@ footer {
 
 .nav li {
 	width: 100px;
-	margin-left:10px;
+	margin-left:50px;
 	display: inline-block;
 }
 
@@ -134,12 +134,14 @@ footer {
 	border-bottom:solid;
 	border-width:2px;
 	width: 900px;
+	text-align: center;
 }
 #top-nav li a{
     display:block;
     padding:5px;
     color:black;
     text-decoration:none;
+    text-transform: uppercase;
 }
 
 
