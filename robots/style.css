@@ -56,15 +56,15 @@ body {
 
 #site-header{
 	position:relative;
-	height:100px;
-	background-color:CCE0A3;
+	height:200px;
+	background-color:cce0a3;
 	width:100%;
 }
 
 #site-header h1{
 	position:absolute;
-	width:300px;
-	height:100px;
+	width:350px;
+	height:200px;
 	left:155px;
 	display:block;
 }
@@ -72,7 +72,9 @@ body {
 #site-header h1 a{
 	position:absolute;
 	background: url('images/logo.png') top left no-repeat;
-	width:300px;
-	height:100px;
+	width:350px;
+	height:200px;
+	text-indent: -9999px;
+	display:block;
 
 }
