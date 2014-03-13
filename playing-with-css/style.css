@@ -56,3 +56,121 @@ body{
 	font-family: helvetica, arial, sans-serif;
 	color:green;
 }
+
+
+
+<style>
+
+body {
+	width:960px;
+	margin:0 auto;
+}
+
+#site-header {
+	position:relative;
+	height:120px;
+	background-color:#d4e0a3;
+	
+}
+
+#site-header h1 {
+	position:absolute;
+	display:block;
+	width:250px;
+	height:100px;
+	background-color:white;
+	left:15px;
+}
+#top-nav { 
+	position:absolute;
+	right:15px;
+	width:150px;
+	height:20px;
+	background-color:white;
+}
+
+	
+
+#main-menu {
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
+}	
+#main-menu li{
+	float:left;
+	display:block;
+	padding:10px;
+	margin:10px 0px 5px 15px;
+	background-color:white;
+}	
+
+
+#page { 
+	float:left; 
+	width:60%;
+	background-color:#fffac2;
+	margin:20px 15px;
+	padding:10px;
+}	
+
+#sidebar {
+	float:right;
+	width:30%;
+	margin-top:20px;
+	padding:10px;
+	background-color:#fffac2;
+}	
+
+#site-footer {
+	clear:both;
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
+}
+
+#footer-content h1 {
+	background-color:white;
+	float:left;
+	width:20%;
+	margin:15px 15px;
+}
+
+</style>
+	
+<header id='site-header'>
+  <h1>Logo</h1>
+  <nav id='top-nav'>top-nav</nav>
+</header>
+
+<nav id='main-menu'>
+  <ul>
+   <li>main menu</li>
+   <li>main menu</li>
+   <li>main menu</li>
+  </ul>	
+</nav>
+
+<article id='page'>
+    <h1>Header 1</h1>
+    <h2>Subhead</h2>
+    <p>Text goes here, remember it's length might vary, so you might not want to set a specific height. Floating might be good.</p>
+
+    <h2>Subhead</h2>
+    <p>ext goes here, remember it's length might vary, so you might not want to set a specific height. Floating might be good.</p>
+</article>
+
+<aside id='sidebar'>
+  <h1>Sidebar</h1>
+  <ul>
+    <li>Sidebar list</li>
+    <li>Sidebar list</li>
+    <li>Sidebar list</li>
+  </ul>
+</aside> <!-- end #sidebar -->
+	
+<footer id='site-footer'>
+  <section id='footer-content'>
+    <h1>Footer</h1>     
+  </section>
+</footer>
+
