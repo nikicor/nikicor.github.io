@@ -157,9 +157,8 @@ img{
 }
 
 footer {
-	width: 100%;
-	padding-top: 2px;
-	border-top-width: 2px;
-	border-top-style: solid;
+	border-top:solid;
+	border-width:2px;
+	width: 900px;
 
 }
