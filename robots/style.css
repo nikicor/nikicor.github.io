@@ -81,12 +81,12 @@ body {
 #top-nav{
 	position:absolute;
 	right:155px;
-	color:#4d3710;
-	font-family: helvetica sans-serif;
-	font-size: small;
-	text-decoration: none;
 }
 
 #top-nav a{
+	text-decoration: none;
+	color:#4d3710;
+	font-family: helvetica sans-serif;
+	font-size: small;
 	text-decoration: none;
 }
