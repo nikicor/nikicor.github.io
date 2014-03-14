@@ -89,9 +89,8 @@ body{
 }
 
 #serves li{
-	float:left;
-	padding:10px;
-	margin-top:7px;
+	float:right;
+	padding-left:10px;
 	margin-bottom: 7px;
 	display: block;
 	font-family: sans-serif;
