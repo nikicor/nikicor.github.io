@@ -62,7 +62,7 @@ body{
 	position:relative;
 	height:120px;
 	width:100%;
-	background-color:#e8fd69;
+	background-color:#FFFF8E;
 }
 
 #top-head h1{
@@ -79,7 +79,7 @@ body{
 #serves{
 	position: relative;
 	padding-left: 150px;
-	background-color: #e8fd69;
+	background-color: #FFFF8E;
 	height:50px;
 
 }
