@@ -91,6 +91,7 @@ body{
 #serves li{
 	float:right;
 	padding-left:10px;
+	padding-right:250px;
 	margin-bottom: 7px;
 	display: block;
 	font-family: sans-serif;
