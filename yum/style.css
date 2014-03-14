@@ -59,7 +59,7 @@ body{
 
 
 #top-head{
-	position:absolute;
+	position:relative;
 	height:120px;
 	width:100%;
 	background-color:#e8fd69;
@@ -78,6 +78,7 @@ body{
 #serves{
 	position: relative;
 	padding-left: 150px;
+	margin-top: 150px;
 	background-color: #e8fd69;
 	height:50px;
 
