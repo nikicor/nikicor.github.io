@@ -54,7 +54,7 @@ table {
 /* END RESET */
 
 body{
-	background-color:#e8fd69;
+	margin:0 auto;
 }
 
 
@@ -67,7 +67,19 @@ h1 {
 
 }
 
+#top-head{
+	position:relative;
+	height:120px;
+	width:100%;
+	background-color:##e8fd69;
+}
+
 #top-head h1{
+	position:absolute;
+	width:350px;
+	height:120px;
+	left:155px;
+	display:block;
 	float:left;
 	margin-top:30px;
 	margin-left: 30px;
@@ -78,6 +90,7 @@ h1 {
 
 #serves{
 	float:right;
+	margin-right: 200px;
 
 }
 
