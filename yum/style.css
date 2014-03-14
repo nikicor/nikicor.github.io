@@ -93,14 +93,15 @@ body{
 }
 
 #serves ul{
-	margin-right: 50px
+	margin-left: 25050px
 }
 
 #serves li{
-	float:right;
-	padding-left:10px;
-	padding-right:250px;
+	float:left;
+	padding-left:50px;
+	padding-right:150px;
 	margin-bottom: 7px;
+	margin-left: 50px;
 	display: block;
 	font-family: sans-serif;
 	font-size: 18px
