@@ -58,40 +58,37 @@ body{
 }
 
 
-
-h1 {
-	padding:5px 3px 10px 20px;
-	margin:30px 1px 20px 20px;
-	font-family: century;
-	font-size: 35px;
-
-}
-
 #top-head{
-	position:relative;
+	position:absolute;
 	height:120px;
 	width:100%;
 	background-color:##e8fd69;
 }
 
 #top-head h1{
-	position:absolute;
-	width:350px;
-	height:120px;
-	left:155px;
-	display:block;
-	float:left;
-	margin-top:30px;
-	margin-left: 30px;
-	padding: 8px;
-	font-family: gillsans;
-	font-size: 18px
+	padding:5px 3px 10px 20px;
+	margin:30px 1px 20px 20px;
+	font-family: century;
+	font-size: 35px;
 }
 
 #serves{
 	float:right;
 	margin-right: 200px;
 
+}
+
+#serves h2{
+	position:relative;
+	width:350px;
+	height:120px;
+	left:155px;
+	display:block;
+	margin-top:100px;
+	margin-left: 30px;
+	padding: 8px;
+	font-family: gillsans;
+	font-size: 18px
 }
 
 ol {
