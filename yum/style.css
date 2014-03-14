@@ -54,23 +54,28 @@ table {
 /* END RESET */
 
 body{
-	background-color:yellow;
+	background-color:#e8fd69;
 }
+
+
 
 h1 {
 	padding:5px 3px 10px 20px;
 	margin:30px 1px 20px 20px;
-	font-family: gillsans;
+	font-family: century;
 	font-size: 35px;
 
 }
 
-h2{	margin:30px 1px 20px 20px;
+#top-head h2{
+	float:left;
+	margin:30px 1px 20px 20px;
 	font-family: gillsans;
 	font-size: 18px
 }
 
-ol {
+#ingredients ol {
+	float:left;
 	list-style-type: decimal;
 	margin:30px 1px 20px 20px;
 	padding:5px 3px 10px 20px;
