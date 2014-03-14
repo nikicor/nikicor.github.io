@@ -56,13 +56,13 @@ table {
 h1 {
 	padding:5px 3px 10px 20px;
 	margin:30px 1px 20px 20px;
-	font-family: courier;
+	font-family: centurygothic;
 	font-size: 35px;
 
 }
 
 h2{	margin:30px 1px 20px 20px;
-	font-family: sans-serif;
+	font-family: centurygothic;
 	font-size: 18px
 }
 
@@ -71,7 +71,6 @@ ol {
 	margin:30px 1px 20px 20px;
 	padding:5px 3px 10px 20px;
 	font-family: rockwell;
-	font-weight: lighter;
 	font-size: 15px;
 }
 
