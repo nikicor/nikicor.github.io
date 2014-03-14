@@ -61,7 +61,7 @@ h1 {
 
 }
 
-h4{
+h3{
 	margin:30px 1px 20px 20px;
 	font-family: gillsans;
 	font-size: 14px
@@ -71,12 +71,21 @@ ol {
 	list-style-type: decimal;
 	margin:30px 1px 20px 20px;
 	padding:5px 3px 10px 20px;
+	font-family: gillsans;
+	font-size: 12px;
 }
 
 ul{
 	margin:30px 1px 20px 20px;
 	padding:5px 3px 10px 20px;
+	font-family: gillsans;
+	font-size: 12px;
 }
 
-.den {font-size: 75%;}
-.num {font-size: 75%; vertical-align:.5ex}
+.den {
+	font-size: 40%;
+}
+.num {
+	font-size: 40%; 
+	vertical-align:.5ex
+}
