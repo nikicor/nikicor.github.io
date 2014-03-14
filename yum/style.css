@@ -80,7 +80,7 @@ body{
 	left:80px;
 	display:block;
 	margin-top: 30px;
-	font-family: "Avant Garde" sans-serif;
+	font-family: helvetica;
 	font-size: 35px;
 }
 
@@ -103,8 +103,8 @@ body{
 	margin-bottom: 7px;
 	margin-left: 50px;
 	display: block;
-	font-family: georgia;
-	font-size: 18px
+	font-family:helvetica;
+	font-size: 18px;
 }
 
 
@@ -118,6 +118,11 @@ body{
 	padding-bottom: 20px;
 	padding-left:15px;
 
+}
+
+#ingredients li{
+	font-family: georgia;
+	letter-spacing: 1px;
 }
 
 #directions{
