@@ -171,6 +171,7 @@ img{
 }
 
 #lemonfooter{
+	clear:both;
 	background-color: #FFF380;
 	height:50px;
 	width:100%;
