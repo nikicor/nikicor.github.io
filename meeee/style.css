@@ -59,32 +59,27 @@ img{
 
 #name{
 	position:relative;
-	height:120px;
-	width:100%;
-	background-color: #D3FFB8;
 }
 
 #name h1{
 	position:absolute;
-	width:450px;
+	width:100px;
 	height:120px;
 	text-align: center;
-	margin-top: 40px;
-	font-family: rockwell;
+	padding-top: 18px;
+	font-family: baskerville;
 	font-size: 50px;
-	letter-spacing: .5px;
-
+	background-color: #d3ffb8;
 }
 
 #name h2{
-	position:absolute;
-	width:450px;
-	height:120px;
+	position:relative;
 	text-align: center;
-	margin-top: 40px;
+	padding-top: 80px;
 	font-family: georgia;
-	font-size: 50px;
+	font-size: 20px;
 	letter-spacing: 1px;
+	font-variant: small-caps;
 
 }
 
