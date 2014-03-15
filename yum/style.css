@@ -83,7 +83,7 @@ img{
 	position:absolute;
 	width:450px;
 	height:120px;
-	left:80px;
+	left:125px;
 	display:block;
 	margin-top: 30px;
 	font-family: georgia;
@@ -92,7 +92,7 @@ img{
 
 #serves{
 	position: relative;
-	padding-left: 150px;
+	padding-left: 190px;
 	background-color: #FFF380;
 	height:50px;
 
@@ -120,7 +120,7 @@ img{
 }
 
 #ingredients{
-	margin-left:80px;
+	margin-left:125px;
 	width:90%;
 	margin-top:20px;
 	margin-right: 0px;
@@ -145,7 +145,7 @@ img{
 	margin-top:20px;
 	margin-bottom: 70px;
 	padding-top: 50px;
-	margin-left: 100px;
+	margin-left: 140px;
 	padding-bottom: 20px;
 	padding-left:15px
 }
@@ -166,7 +166,7 @@ img{
 	position: absolute;
 	padding-top: 220px;
 	padding-right: 5px;
-	padding-left: 80px;
+	padding-left: 125px;
 	margin-top: 5px;
 	margin-left: 8px;
 }
