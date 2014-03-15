@@ -137,7 +137,11 @@ img{
 	letter-spacing: .5px;
 	font-size: 15px;
 	line-height: 20px;
+}
 
+#ingredients a{
+	text-decoration: none;
+	color:#579A9E;
 }
 
 #directions {
