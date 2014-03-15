@@ -53,11 +53,38 @@ body{
 }
 
 img{
-	height:20%;
-	width:20%;
+	height:10%;
+	width:10%;
 }
 
 #name{
+	position:relative;
+	height:120px;
+	width:100%;
+	background-color: #D3FFB8;
+}
+
+#name h1{
+	position:absolute;
+	width:450px;
+	height:120px;
+	text-align: center;
+	margin-top: 40px;
+	font-family: rockwell;
+	font-size: 50px;
+	letter-spacing: .5px;
+
+}
+
+#name h2{
+	position:absolute;
+	width:450px;
+	height:120px;
+	text-align: center;
+	margin-top: 40px;
+	font-family: georgia;
+	font-size: 50px;
+	letter-spacing: 1px;
 
 }
 
