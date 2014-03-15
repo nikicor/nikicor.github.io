@@ -99,10 +99,10 @@ body{
 }
 
 #serves li{
-	float:right;
+	float:left;
 	padding-left:50px;
 	padding-right:150px;
-	margin-bottom: 70px;
+	margin-bottom: 7px;
 	margin-left: 50px;
 	display: block;
 	font-family:helvetica;
@@ -132,8 +132,10 @@ body{
 }
 
 #directions {
+	float:right;
 	width:45%;
 	margin-top:20px;
+	margin-bottom: 70px;
 	padding-top: 50px;
 	margin-left: 50px;
 	padding-bottom: 20px;
