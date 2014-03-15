@@ -162,12 +162,12 @@ img{
 }
 
 
-#lemonpudding-footer li{
+#lemonpudding{
 	float:left;
 	padding-top: 5px;
 	padding-right: 5px;
 	margin-top: 5px;
-	margin-bottom:80px;
+	margin-bottom:40px;
 	margin-left:80px;
 	display:block;
 }
