@@ -159,3 +159,14 @@ img{
 	letter-spacing: .5px;
 	font-size: 15px;
 	line-height: 20px;
+}
+
+#site-footer li{
+	float:left;
+	padding-top: 5px;
+	padding-right: 5px;
+	margin-top: 5px;
+	margin-bottom:10px;
+	display:block;
+
+}
