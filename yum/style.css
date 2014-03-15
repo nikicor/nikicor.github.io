@@ -171,17 +171,13 @@ img{
 }
 
 #lemonfooter{
-	clear:both;
 	background-color: #FFF380;
-	height:100%;
-	width:100%;
 }
 
 #lemonfooter a{
-	color:#FFEF50;
 	font-size: 30px;
 	font-family: helvetica;
 	letter-spacing: .5px;
 	text-decoration: none;
-	text-align: center;
+	padding-left: 125px;
 }
