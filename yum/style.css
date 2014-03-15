@@ -178,7 +178,11 @@ img{
 }
 
 #lemonfooter a{
-	color:#FFEF50;
+	text-decoration: none;
+}
+
+#lemonfooter h1{
+	color:black;
 	font-size: 30px;
 	font-family: helvetica;
 	letter-spacing: .5px;
