@@ -161,14 +161,22 @@ img{
 	line-height: 20px;
 }
 
-#site-footer li{
+#site-footer{
+	position:relative;
+	width:100%;
+	background-color:#FFF380;
+}
+
+#lemonpudding-footer li{
+	position: absolute;
 	float:left;
 	padding-top: 5px;
 	padding-right: 5px;
 	margin-top: 5px;
-	margin-bottom:40px;
+	margin-bottom:10px;
 	margin-left:80px;
 	display:block;
-	
-
+	background-color:#FFF380;
+	height:100%;
+	width:100%;
 }
