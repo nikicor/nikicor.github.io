@@ -59,9 +59,12 @@ body{
 
 img{
 	float:left;
-	height:55%;
-	width:55%;
-	padding:0px 20px 20px 0px;
+	height:100%;
+	width:100%;
+	padding:50px 20px 20px 0px;
+	margin-left: 50px;
+	margin-top: 50px;
+
 }
 
 .den {
