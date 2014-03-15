@@ -146,6 +146,7 @@ body{
 }
 
 #directions li{
+	float: left;
 	font-family: georgia;
 	letter-spacing: .5px;
 	font-size: 15px;
