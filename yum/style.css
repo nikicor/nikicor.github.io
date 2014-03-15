@@ -89,7 +89,7 @@ body{
 #serves{
 	position: relative;
 	padding-left: 150px;
-	background-color: #FFFF8E;
+	background-color: #FFF380;
 	height:50px;
 
 }
@@ -101,7 +101,8 @@ body{
 #serves li{
 	float:left;
 	padding-left:50px;
-	padding-right:150px;
+	padding-right:20px;
+	margin-top: 15px;
 	margin-bottom: 7px;
 	margin-left: 50px;
 	display: block;
@@ -116,7 +117,7 @@ body{
 
 #ingredients{
 	margin-left:80px;
-	width:70%;
+	width:90%;
 	margin-top:20px;
 	margin-right: 0px;
 	padding-top: 50px;
