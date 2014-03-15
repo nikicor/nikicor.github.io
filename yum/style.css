@@ -62,7 +62,8 @@ body{
 }
 .num {
 	font-size: 80%; 
-	vertical-align:.5ex
+	vertical-align:.5ex;
+	letter-spacing:2px;
 }
 
 
@@ -125,6 +126,8 @@ body{
 #ingredients li{
 	font-family: georgia;
 	letter-spacing: 1px;
+	font-size: 20px;
+	list-style-position: inside;
 }
 
 #directions{
