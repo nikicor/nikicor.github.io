@@ -96,13 +96,14 @@ img{
 
 }
 
-figure{
-	margin-left: 250px;
-	margin-top: 90px
-
+figcaption{
+	margin-top: 500px
 }
 
 #profile img{
+	float:right;
+	margin-right: 380px;
+	margin-top:80px;
 	
 }
 
