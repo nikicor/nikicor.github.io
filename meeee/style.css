@@ -104,18 +104,23 @@ body{
 }
 
 #profile p{
-	padding-top: 20px;
+	padding-top: 10px;
+	margin-left: 20px;
 	font-family: baskerville;
-	font-size: 30px;
-	letter-spacing: .5px;
+	font-size: 12px;
+	letter-spacing: .05px;
 
 	
 }
 
  #contact-footer{
+ 	margin-top:380px;
+ 	margin-left: 600px;
+}
 
- }
-
- #contact{
+ #contact a{
+ 	text-decoration: none;
+ 	color:#579A9E;
+ 	letter-spacing: .05px
 
  }
