@@ -97,6 +97,8 @@ img{
 }
 
 #right-profile{
+	float:left;
+	margin-right: 20px;
 
 }
 
@@ -106,8 +108,7 @@ img{
 }
 
 #profile img{
-	float:left;
-	margin-right: 20px;
+	
 }
 
  #contact-footer{
