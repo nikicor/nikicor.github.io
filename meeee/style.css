@@ -101,12 +101,13 @@ img{
 }
 
 #profile{
-	float:left;
-	margin-right: 20px;
+	
 
 }
 
 #profile img{
+	float:left;
+	margin-right: 20px;
 }
 
  #contact-footer{
