@@ -53,8 +53,8 @@ body{
 }
 
 img{
-	height:10%;
-	width:10%;
+	height:30%;
+	width:30%;
 }
 
 #name{
@@ -97,13 +97,15 @@ img{
 }
 
 #right-profile{
-	float: right;
 
 }
 
 #profile{
-	float:right;
 
+}
+
+#profile img{
+	float:right;
 }
  #contact-footer{
 
