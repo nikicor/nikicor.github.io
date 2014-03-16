@@ -96,14 +96,9 @@ img{
 
 }
 
-#right-profile{
-	float:left;
-	margin-right: 20px;
-
-}
-
-#profile{
-	
+#profile figure{
+	margin-left: 250px;
+	margin-top: 90px
 
 }
 
