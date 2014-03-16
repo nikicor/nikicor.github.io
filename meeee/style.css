@@ -86,7 +86,8 @@ img{
 #content{
 	margin-left: 200px;
 	margin-top: 90px;
-	line-height: 25px;
+	line-height: 20px;
+	width:370px;
 }
 #about-me h1{
 	font-family: baskerville;
@@ -95,7 +96,8 @@ img{
 
 }
 
-#left-profile{
+#right-profile{
+	float: right;
 
 }
 
