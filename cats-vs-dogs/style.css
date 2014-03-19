@@ -151,7 +151,13 @@ img{
     clear:left;
     text-align: left;
     padding-left:30px;
-    font-size: 10px;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+#left-footer a{
+	color:red;
+	text-decoration: none;
 }
 
 #right-footer {
@@ -162,11 +168,16 @@ img{
 	font-size:10px;
 }
 
+#right-footer a{
+	color:red;
+	text-decoration: none;
+}
+
 footer {
+	clear:both;
 	width: 900px;
 	padding-top: 20px;
-	border-top:solid;
 	border-bottom:solid;
-	border-width:2px;
+	border-width:3px;
 
 }
