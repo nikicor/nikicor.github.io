@@ -56,30 +56,34 @@ body{
 	font-family: helvetica, arial, sans-serif;
 }
 h1{
-	font-size:  160%;
+	font-size:  140%;
 	font-weight: bold;
+	padding-bottom:5px;
 }
 
 h2{
 	font-size: small;
 	color:gray;
+	padding-bottom: 5px;
 }
 
 p{
 	padding-bottom: 10px;
+	line-height: 18px;
 }
 article{
 	float:left;
 	width:450px;
 	margin:100px 15px;
+	padding-right: 35px;
 }
 
 img{
 	float:left;
-	width:150px;
+	width:200px;
+	height:160px;
 	padding:0px 20px 20px 0px;
 }
 #main-content{
-	width:960px;
-	margin:0auto;
+padding-left: 150px
 }
