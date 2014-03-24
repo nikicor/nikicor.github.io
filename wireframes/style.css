@@ -56,10 +56,10 @@ body{
 	margin: 0 auto;
 }
 
-img{
+#wireframes li{
 	float:left;
-	width:200px;
-	height:130px;
+	width:100px;
+	height:230px;
 	padding:0px 20px 20px 0px;
 }
 
