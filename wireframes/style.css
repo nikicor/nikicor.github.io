@@ -64,6 +64,23 @@ h1 {
 	text-align: center;
 	padding-top: 20px;
 }
+
+h2 {
+	color:white;
+	font-family: baskerville;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+#users{
+	padding-left: 50px;
+	padding-top: 40px;
+	font-family: helvetica;
+	color: white;
+	font-size: 16px;
+}
+
 #pictures{
 	width:100%;
 	float:left;
