@@ -70,15 +70,16 @@ h2 {
 	font-family: baskerville;
 	font-size: 20px;
 	padding-top: 10px;
-	padding-left:400px;
+	padding-left:50px;
 }
 
-#users{
+#user1, #user2, #user3{
 	padding-left: 50px;
-	padding-top: 40px;
+	padding-top: 50px;
 	font-family: helvetica;
 	color: white;
-	font-size: 16px;
+	font-size: 12px;
+	line-height: 20px;
 }
 
 #pictures{
