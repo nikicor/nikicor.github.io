@@ -71,12 +71,14 @@ body{
 	font-family: arial;
 	font-size: 40px;
 	padding-top: 50px;
+	text-transform: uppercase;
+	letter-spacing: 3em;
 }
 
 #top-nav{
 	position: relative;
 	padding-left:200px;
-	background-color: teal;
+	background-color: #ffffff;
 	height:50px;
 }
 
@@ -93,8 +95,36 @@ body{
 
 #top-nav a{
 	text-decoration: none;
-	color:#ffffff;
+	color:teal;
 	font-family: helvetica;
+}
+
+
+#feature{
+	float:left;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left:250px;
+	margin-top: 30px;
+	margin-right: 15px;
+	width:30%;
+}
+
+#feature h2{
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 18px;
+	color:#4d3710;
+	text-transform: uppercase;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#feature p{
+	font-size: 12px;
+	padding-bottom: 5px;
+	line-height: 1em; 
 }
 
 #wireframes{
