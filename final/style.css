@@ -65,21 +65,17 @@ body{
 
 #site-header h1{
 	position:absolute;
-	width:350px;
-	height:120px;
-	left:155px;
+	left:200px;
 	display:block;
-	color:blue;
+	color: #ffffff;
 	font-family: arial;
 	font-size: 40px;
-	text-align: left;
-	padding-left: 130px;
-	padding-top: 20px;
+	padding-top: 50px;
 }
 
 #top-nav{
 	position: relative;
-	padding-left:150px;
+	padding-left:200px;
 	background-color: teal;
 	height:50px;
 }
