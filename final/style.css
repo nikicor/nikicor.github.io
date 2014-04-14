@@ -102,13 +102,13 @@ body{
 
 #feature{
 	float:left;
-	padding-top: 25px;
-	padding-right: 25px;
-	padding-bottom: 25px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
 	padding-left:250px;
 	margin-top: 30px;
 	margin-right: 15px;
-	width:30%;
+	width:100%;
 }
 
 #feature h2{
@@ -125,6 +125,19 @@ body{
 	font-size: 12px;
 	padding-bottom: 5px;
 	line-height: 1em; 
+}
+
+#feature img{
+	width:70px;
+	height:50px;
+}
+
+#footer-site{
+	clear:both;
+	position: relative;
+	height:150px;
+	width:100%;
+	background-color: teal;
 }
 
 #wireframes{
