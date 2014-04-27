@@ -64,7 +64,7 @@ body{
 }
 
 #site-header h1 a{
-	background: url('images/name.png') top-left no-repeat;
+	background: url('images/name.png') no-repeat;
 	position:absolute;
 	width:350px;
 	height:150px;
@@ -78,6 +78,7 @@ body{
 	width:350px;
 	height:120px;
 	left:155px;
+	top:20px;
 	display:block;
 }
 
@@ -97,7 +98,8 @@ body{
 	margin:0;
 	padding-left:40px;
 	padding-top:20px;
-	list-style-type: none;
+	padding:0 0 0 40;
+	list-style-type: disc;
 }
 #top-nav li{
 	display:block;
@@ -105,9 +107,13 @@ body{
 }
 
 #top-nav a{
-	text-decoration: none;
+	display:block;
+	padding:10px 5px;
 	color:teal;
 	font-family: helvetica;
+	text-decoration: none;
+	text-transform: uppercase;
+	color:white;
 }
 
 
