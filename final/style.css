@@ -86,12 +86,12 @@ body{
 }
 
 #nav{
-	padding-left:170px;
+	padding-left:770px;
 	height:50px;
 }
 
 #nav ul{
-	padding-top:20px;
+	padding-top:50px;
 	list-style-type: disc;
 }
 #nav li{
