@@ -87,19 +87,19 @@ body{
 }
 
 #nav{
-	padding-left:190px;
-	background-color: #41FFA0;
+	padding-left:170px;
+	background-color: #2C66FF;
 	height:50px;
 }
 
 #nav ul{
 	padding-top:20px;
-	padding:0 0 0 40;
 	list-style-type: disc;
 }
 #nav li{
 	display:block;
 	float:left;
+	padding-right: 12px
 }
 
 #nav a{
