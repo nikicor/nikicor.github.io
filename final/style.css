@@ -58,9 +58,13 @@ body{
 }
 #site-header{
 	position:relative;
-	height:50px;
+	height:100px;
 	width:100%;
 	background-color:green;
+}
+
+#site-header a{
+	background: url('images/name.png') top-left no-repeat;
 }
 
 #site-header h1{
@@ -70,7 +74,7 @@ body{
 	color: #ffffff;
 	font-family: arial;
 	font-size: 20px;
-	padding-top: 20px;
+	padding-top: 40px;
 	text-transform: uppercase;
 	letter-spacing: 0.05em;
 }
