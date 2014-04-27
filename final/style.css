@@ -54,7 +54,7 @@ table {
 
 body{
 	margin: 0 auto;
-	background-color: white;
+	background-color: #3341FF;
 }
 #site-header{
 	position:relative;
@@ -88,7 +88,6 @@ body{
 
 #nav{
 	padding-left:170px;
-	background-color: #2C66FF;
 	height:50px;
 }
 
