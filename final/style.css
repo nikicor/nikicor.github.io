@@ -150,21 +150,31 @@ body{
 	padding-left: 200px;
 }
 
+#schoolprojects{
+	float:left;
+	padding-bottom: 15px;
+	padding-left:350px;
+	margin-right: 15px;
+	width:100%;
+
+}
+
 #schoolprojects img{
-	width:50%;
-	height:50%;
+	width:25%;
+	height:25%;
 	float:left;
 	padding-left: 40px;
 	padding-top: 50px;
 
 }
+ 
+ #schoolprojects h2{
+ 	font-size: 12px;
+ 	font-family: helvetica;
+ 	font-variant: uppercase;
 
-#schoolprojects a{
-	text-decoration: none;
-	color:white;
-	font-family: helvetica;
-	
-}
+ }
+
 
 
 
