@@ -151,8 +151,8 @@ body{
 }
 
 #schoolprojects img{
-	width:25%;
-	height:25%;
+	width:50%;
+	height:50%;
 	float:left;
 	padding-left: 40px;
 	padding-top: 50px;
@@ -160,7 +160,6 @@ body{
 }
 
 #schoolprojects a{
-	float:left;
 }
 
 
