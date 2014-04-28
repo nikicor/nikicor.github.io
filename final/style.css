@@ -160,6 +160,10 @@ body{
 }
 
 #schoolprojects a{
+	text-decoration: none;
+	color:white;
+	font-family: helvetica;
+	
 }
 
 
