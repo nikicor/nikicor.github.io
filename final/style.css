@@ -75,12 +75,13 @@ html[xmlns] .clearfix { display: block; }
 
 body{
 	margin: 0 auto;
-	background-color: #66ACE8;
 }
+
 #site-header{
 	position:relative;
 	height:100px;
 	width:100%;
+	background-color: #66ACE8;
 }
 
 #site-header h1 a{
@@ -144,9 +145,9 @@ body{
 	font-family: helvetica;
 	font-weight: bold;
 	font-size: 18px;
-	color:white;
+	color: #66ACE8;
 	text-transform: uppercase;
-	padding-top: 100px
+	padding-top: 30px
 }
 
 #feature p{
@@ -171,14 +172,20 @@ body{
 	padding-left: 200px;
 }
 
-#schoolprojects{
+#schoolprojects li{
 	float:left;
 	padding-bottom: 15px;
 	padding-left:350px;
 	margin-right: 15px;
 	width:100%;
-
 }
+
+.group:after{
+	content: "";
+	display:table;
+	clear:both;
+}
+
 
 
 
