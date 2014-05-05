@@ -164,35 +164,11 @@ body{
 	padding-right: 10px;
 }
 
-
-
-#wireframes{
-	width:100%;
+.schoolprojects {
 	float:left;
-	padding-left: 200px;
 }
 
 
-#work li{
-	float:left;
-	padding-bottom: 15px;
-	padding-left:30px;
-	padding-right:15px;
-	padding-top:30px;
-	width:100%;
-}
-
-.group:after{
-	content: "";
-	display:table;
-	clear:both;
-}
-
-.schoolprojects img{
-	width:40%;
-	height:40%;
-
-}
 
 
 
