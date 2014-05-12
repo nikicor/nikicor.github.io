@@ -150,7 +150,9 @@ body{
 #feature p{
 	font-size: 14px;
 	padding-top: 5px;
-	line-height: 1em; 
+	line-height: 1em;
+	font-family: helvetica;
+	margin-right: 300px; 
 }
 
 #feature img{
@@ -171,7 +173,19 @@ body{
 	margin-bottom: 3em;
 }
 
+#about img{
+	float:left;
+	width:40%;
+}
+ #about p{
+ 	float:right;
+ 	font-size: 14px;
+	padding-top: 5px;
+	line-height: 1em;
+	font-family: helvetica;
+	margin-right: 300px;
 
+ }
 
 
 
