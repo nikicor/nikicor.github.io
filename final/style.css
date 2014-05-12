@@ -130,8 +130,8 @@ body{
 `#feature{
 	float:left;
 	padding-bottom: 15px;
-	padding-left:350px;
-	margin-right: 15px;
+	padding-left:250px;
+	width:100%;
 }
 
 #feature h2{
