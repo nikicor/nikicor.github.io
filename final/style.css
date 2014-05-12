@@ -159,7 +159,7 @@ body{
 	padding-right: 10px;
 }
 
-#row1 {
+#row1 li {
 	margin-left:150px;
 	margin-right: 5px;
 	display:inline-block;
