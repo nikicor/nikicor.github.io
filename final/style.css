@@ -159,7 +159,7 @@ body{
 	padding-right: 10px;
 }
 
-#row1 li{
+#row1 {
 	float:left;
 	margin-left:50px;
 	margin-right: 5px;
@@ -197,7 +197,7 @@ body{
 }
 #icons img{
 	float:left;
-	padding-left: 30px;
+	padding-left: 10px;
 	padding-top:50px;
 
 }
