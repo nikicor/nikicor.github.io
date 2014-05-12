@@ -178,12 +178,12 @@ body{
 	float:left;
 	width:40%;
 }
- #about p{
+ #abouttext {
  	float:right;
  	font-size: 14px;
 	line-height: 1em;
 	font-family: helvetica;
-	margin-right: 200px;
+	margin-right: 20px;
 
  }
 
